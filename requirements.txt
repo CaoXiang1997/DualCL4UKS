@@ -1,0 +1,10 @@
+numpy
+tqdm
+stopwords
+nltk
+scikit-learn
+tensorboardX
+transformers
+six
+rouge
+pandas
